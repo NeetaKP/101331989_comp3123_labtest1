@@ -1,0 +1,22 @@
+{
+  "name": "lab_test-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "startq1": "node QuestionNO_1_ES6feature/question_01_solution.js",
+    "startq2": "node QuestionNO_2_Promises/question_02_solution.js",
+    "startq3": "node QuestionNO_3_FileModule/question_03_solution.js",
+    "dev": "nodemon index.js"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
